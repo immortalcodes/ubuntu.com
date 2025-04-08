@@ -31,7 +31,7 @@ For Mac users, in case running `dotrun` returns an error related to Chromium, ad
 PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
 ```
 
-Once the server has started, you can visit <http://127.0.0.1:8001> in your browser.
+Once the server has started, you can visit <http://127.0.0.1:8001> in your browser
 
 For more information on how to work with ubuntu.com project please refer to [HACKING.md](HACKING.md).
 
